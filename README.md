@@ -10,16 +10,6 @@ I'm a full-stack engineer and product architect with a passion for building scal
 - 👨‍💻 **Head of Engineering** at [Toyow](https://toyow.com)
 - 🧠 **CTO & Co-founder** at [LMN8](https://lmn8.app)
 
----
-
-## 🚀 Currently Building
-
-- 💰 **[Hodll](https://hodll.app)** – Automated crypto SIP investment platform with **NPCI-based UPI mandates** and **global multi-currency payments**
-- 📫 **[DonkyMail](https://donkymail.com)** – End-to-end encrypted mailing + campaign platform (ProtonMail × Mailchimp)
-- 🎟️ **Lottreth** – On-chain lottery engine using **stablecoin pools** with verifiable randomness
-- 🧱 **Ardor** – **Global banking and payments system built entirely on stablecoins**, enabling seamless cross-border infrastructure for individuals and institutions
-
----
 
 ## 🔧 Tech Stack Overview
 
